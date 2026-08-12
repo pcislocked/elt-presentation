@@ -6,10 +6,10 @@
   <h1>🚀 Next-Gen ELT Presentation (Custom Web Engine)</h1>
   <p><strong>A full 4K-optimized, AI-driven ELT presentation bundled with its own interactive web engine.</strong></p>
   
-  ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)[cite: 1]
-  ![Vanilla JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)[cite: 1]
-  ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)[cite: 1]
-  ![AI Generated](https://img.shields.io/badge/AI_Assisted-000000?style=for-the-badge&logo=openai&logoColor=white)[cite: 1]
+  ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+  ![Vanilla JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
+  ![AI Generated](https://img.shields.io/badge/AI_Assisted-000000?style=for-the-badge&logo=openai&logoColor=white)
 </div>
 
 ---
